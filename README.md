@@ -22,8 +22,6 @@ set-cookie: sessionid=AAABaE-nFJG53hgFY5oSqeWkMtfT0Yajcwe4beQSgoz2KQu6hCZ_miYDkt
 
 Hello World!!
 
-pong
-
 $ curl -i "localhost:8080/ping"
 HTTP/1.1 200 OK
 content-type: text/plain;charset=UTF-8
